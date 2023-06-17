@@ -1,5 +1,5 @@
-# List-Of-Personal-Knoledge-Managemenet-Systems
-List Of Personal Knoledge Managemenet Systems
+# List-Of-Personal-Knowledge-Managemenet-Systems
+List Of Personal Knowledge Managemenet Systems
 
 Methodologies
 - Zettlekasten
