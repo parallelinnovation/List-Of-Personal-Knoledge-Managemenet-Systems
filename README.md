@@ -11,17 +11,20 @@ Methodologies
 - Johnny Decimal method
  - https://johnnydecimal.com/
 
-Abbreviation: What it means:
-FOSS Free and open-source software
-Free Everything that is part of the app is free
-Free +$ Free, but has additional paid features
-Paid Most or all features are paid
-+ n.desktop with native desktop app
-nn. non-native
-W/M/L Windows/Mac/Linux
-iOS/A iOS/Android
-BDL Bidirectional linking
-Links Regular links between notes
+
+|*Abbreviation:*|*What it means:*|
+|:-|:-|
+|FOSS|Free and open-source software|
+|Free|Everything that is part of the app is free|
+|Free +$|Free, but has additional paid features|
+|Paid|Most or all features are paid|
+|**+** n.**desktop**|with native desktop app|
+|nn.|non-native|
+|W/M/L|Windows/Mac/Linux|
+|iOS/A|iOS/Android|
+|BDL|Bidirectional linking|
+|Links|Regular links between notes|
+
 Side note 1: Apps that have both web & native apps are under "Web-based applications" and are specified accordingly, however, only native apps are under "Native applications".
 Side note 2: Native apps assume local storage unless otherwise stated.
 Side note 3: If there's a question mark somewhere, it means that I'm not sure. If you know what correctly belongs there, I'd appreciate it if you let me know in the comments. Thanks.
